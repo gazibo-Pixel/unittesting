@@ -2,11 +2,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='elegantcasing',
+    name='unittestdemo',
     version='1.0.1',
-    description='Change your text to title-case',
-    author='Brandon Blair',
-    author_email='cbrandon.blair@gmail.com',
-    url='https://github.com/BrandonBlair/elegantframeworks',
+    description='Demo for unit test using pytest',
+    author='Mohamed Taha',
+    author_email='C-Mohamed.Taha@charter.com',
+    url='https://github.com/gazibo-Pixel/unittesting.git',
     packages=find_packages()
 )
